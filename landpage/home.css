@@ -130,7 +130,7 @@ header {
         visibility: hidden;
         position: fixed;
     }
-       #image{
+       #imagee{
         visibility: hidden;
         position: fixed;
     }
@@ -152,7 +152,7 @@ header {
         visibility: hidden;
         position: fixed;
     }
-    #image{
+    #imagee{
         visibility: hidden;
         position: fixed;
     }
@@ -164,7 +164,7 @@ header {
 
     }
 
-    #image{
+    #imagee{
         z-index: 2;
         position: absolute;
         top: 3em;
@@ -182,7 +182,7 @@ header {
     
 
      @media  (max-width: 677px) {
-       #image{
+       #imagee{
         visibility: hidden;
         position: fixed;
     }
